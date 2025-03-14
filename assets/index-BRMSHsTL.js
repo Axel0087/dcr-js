@@ -612,7 +612,7 @@ Actual: `+I.attribValue);else{var bt=I.tag,Ot=I.tags[I.tags.length-1]||I;bt.ns==
     text-align: center;
     font-size: 40px;
     margin-top: 1rem;
-`,gk=({setState:t})=>st.jsxs(st.Fragment,{children:[st.jsx(pk,{children:"DCR-JS"}),st.jsxs(p1,{direction:"row",$justify:"space-around",children:[st.jsxs(Nv,{onClick:()=>t(es.Modeler),children:[st.jsxs(Lv,{children:[st.jsx("br",{}),"Modeling"]}),st.jsx(Dv,{src:"dcr-js/icons/modeling.svg"})]}),st.jsxs(Nv,{onClick:()=>t(es.Simulator),children:[st.jsxs(Lv,{children:[st.jsx("br",{}),"Simulation"]}),st.jsx(Dv,{src:"dcr-js/icons/simulation.svg"})]}),st.jsxs(Nv,{onClick:()=>t(es.Conformance),children:[st.jsxs(Lv,{children:["Conformance ",st.jsx("br",{})," Checking"]}),st.jsx(Dv,{src:"dcr-js/icons/conformance.svg"})]})]})]}),Pv=Yt.button`
+`,gk=({setState:t})=>st.jsxs(st.Fragment,{children:[st.jsx(pk,{children:"DCR-JS"}),st.jsxs(p1,{direction:"row",$justify:"space-around",children:[st.jsxs(Nv,{onClick:()=>t(es.Modeler),children:[st.jsxs(Lv,{children:[st.jsx("br",{}),"Modeling"]}),st.jsx(Dv,{src:"icons/modeling.svg"})]}),st.jsxs(Nv,{onClick:()=>t(es.Simulator),children:[st.jsxs(Lv,{children:[st.jsx("br",{}),"Simulation"]}),st.jsx(Dv,{src:"icons/simulation.svg"})]}),st.jsxs(Nv,{onClick:()=>t(es.Conformance),children:[st.jsxs(Lv,{children:["Conformance ",st.jsx("br",{})," Checking"]}),st.jsx(Dv,{src:"icons/conformance.svg"})]})]})]}),Pv=Yt.button`
     align-items: center;
     padding: 8px;
     border: 1px solid black;
